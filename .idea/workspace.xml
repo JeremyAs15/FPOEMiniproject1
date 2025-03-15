@@ -5,45 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b189badc-39ff-4349-9510-6aa50a99057e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/com.example.miniproject1/com/example/miniproject1/HelloApplication.html" beforeDir="false" afterPath="$PROJECT_DIR$/com.example.miniproject1/com/example/miniproject1/HelloApplication.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.example.miniproject1/com/example/miniproject1/HelloController.html" beforeDir="false" afterPath="$PROJECT_DIR$/com.example.miniproject1/com/example/miniproject1/HelloController.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.example.miniproject1/com/example/miniproject1/class-use/HelloApplication.html" beforeDir="false" afterPath="$PROJECT_DIR$/com.example.miniproject1/com/example/miniproject1/class-use/HelloApplication.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.example.miniproject1/com/example/miniproject1/class-use/HelloController.html" beforeDir="false" afterPath="$PROJECT_DIR$/com.example.miniproject1/com/example/miniproject1/class-use/HelloController.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.example.miniproject1/com/example/miniproject1/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/com.example.miniproject1/com/example/miniproject1/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.example.miniproject1/com/example/miniproject1/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/com.example.miniproject1/com/example/miniproject1/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.example.miniproject1/com/example/miniproject1/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/com.example.miniproject1/com/example/miniproject1/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.example.miniproject1/module-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/com.example.miniproject1/module-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-files/index-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-files/index-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-files/index-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-files/index-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-files/index-5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/allclasses-index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/allpackages-index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/com.example.miniproject1/com/example/miniproject1/HelloApplication.html" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/com.example.miniproject1/com/example/miniproject1/HelloApplication.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/com.example.miniproject1/com/example/miniproject1/HelloController.html" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/com.example.miniproject1/com/example/miniproject1/HelloController.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/com.example.miniproject1/com/example/miniproject1/class-use/HelloApplication.html" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/com.example.miniproject1/com/example/miniproject1/class-use/HelloApplication.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/com.example.miniproject1/com/example/miniproject1/class-use/HelloController.html" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/com.example.miniproject1/com/example/miniproject1/class-use/HelloController.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/com.example.miniproject1/com/example/miniproject1/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/com.example.miniproject1/com/example/miniproject1/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/com.example.miniproject1/com/example/miniproject1/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/com.example.miniproject1/com/example/miniproject1/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/com.example.miniproject1/com/example/miniproject1/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/com.example.miniproject1/com/example/miniproject1/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/com.example.miniproject1/module-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/com.example.miniproject1/module-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/index-files/index-5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/member-search-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/module-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/module-search-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/package-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/package-search-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/search.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/tag-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/tag-search-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaDoc/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/javaDoc/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/miniproject1/Models/TypingGameRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/miniproject1/Models/Words.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/miniproject1/controllers/TypingGameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/sun0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/sun100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/sun25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/sun50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/sun75.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/miniproject1/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/miniproject1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/miniproject1/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/miniproject1/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/miniproject1/TypingGameView.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +27,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,9 +46,9 @@
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2uL57NaV5KQzlcH9HA6LRBfNtQt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -75,13 +57,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/jeremy/IdeaProjects/miniproject1/miniproject1/src/main/resources/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -98,8 +92,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742014849328</updated>
-      <workItem from="1742014850504" duration="20000" />
+      <workItem from="1742014850504" duration="848000" />
+      <workItem from="1742017485313" duration="2243000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

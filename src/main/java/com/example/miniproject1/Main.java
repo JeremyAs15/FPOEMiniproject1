@@ -12,12 +12,12 @@ import java.io.IOException;
  * @version 1.0
  */
 
-public class HelloApplication extends Application {
+public class Main extends Application {
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("hello-view.fxml"));
-        Scene scene = new Scene(fxmlLoader.load(), 320, 240);
-        stage.setTitle("Hello!");
+        FXMLLoader fxmlLoader = new FXMLLoader(Main.class.getResource("TypingGameView.fxml"));
+        Scene scene = new Scene(fxmlLoader.load());
+        stage.setTitle("Fast Typing Game!");
         stage.setScene(scene);
         stage.show();
     }
